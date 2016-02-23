@@ -1,0 +1,146 @@
+.antenna{
+	right: 1200px;
+}
+
+.navbar-inverse{
+	padding: 5px;
+	background-color: #2f2f2f;
+	font: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: white;
+    color: black;
+}
+
+.logo{
+  margin-top: -20px;
+}
+
+.dropdown-menu li{
+	padding: 7px;
+}
+
+.dropdown-menu > li > a:hover{
+	color: white;
+	background-color: #2f2f2f;
+}
+
+/*COVER */
+
+.jumbotron .container h1 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #FFFFFF;
+    border-bottom-color: rgba(255,255,255,0.35);
+    display: inline-block;
+}
+
+.jumbotron .container > * {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.objectcenter{
+  margin: auto;
+}
+
+/*Places the text in the center */
+.jumbotron .container {
+    position: relative;
+    top: 28%;
+    z-index: 4;
+    text-align: center;
+		right: 400px;
+		margin-top: -50px;
+}
+
+.jumbotron .container .lead {
+    font-size: 28px;
+}
+/*Aligns everything in the center inside the container. */
+
+.jumbotron .scroll-down .glyphicon {
+    color: #FFFFFF;
+    font-size: 30px;
+    padding-right: 2px;
+    padding-top: 20px;
+    animation-duration: 1.2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+.jumbotron .scroll-down {
+    height: 80px;
+    width: 110px;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    right: 5%;
+    background-color: #222222;
+    text-align: center;
+    z-index: 6;
+}
+
+div#top.jumbotron {
+    background: no-repeat center right fixed;
+    background-image: url("../Images/antenna22.jpg");
+    background-size: 100%;
+    background-size: cover;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+#heading{
+	text-align: center;
+	border-bottom: solid 1px #2f2f2f;
+}
+
+#h3{
+	color: #2f2f2f;
+}
+
+#center{
+	text-align: center;
+	object-position: center;
+}
+
+.btn{
+	width: 100%;
+}
+
+.contact{
+	margin-top: -40px;
+}
+
+.footer{
+	background-color: #2f2f2f;
+}
+.footer h3{
+	color: white;
+	text-align: center;
+}
+
+#white{
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+.line{
+	border-top: solid 1px white;
+}
+
+.middle{
+    left: 100px:
+	}
+.lastcontact{
+	padding-left: 6px;;
+	padding-right: 6px;
+	align-items: center;
+	align-content: center;
+}
+
+.callme{
+	position: fixed;
+	right: 150px;
+}
